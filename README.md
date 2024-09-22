@@ -1,0 +1,1 @@
+The game allows users to utilize various types of pipes to establish a connection from the starting point to the endpoint, enabling the seamless flow of water. Players strategically select and place different pipe types to create an effective pathway, adding an engaging layer of challenge as they work to ensure the water flows uninterrupted from one end to the other.
